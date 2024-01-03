@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMSGeekChallenge", "AMSGeekChallenge\AMSGeekChallenge.csproj", "{92525F55-D863-42A0-84DF-B1308A350F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckTests", "DeckTests\DeckTests.csproj", "{4A0B2421-13A6-4720-B198-52AC18EB573C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92525F55-D863-42A0-84DF-B1308A350F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92525F55-D863-42A0-84DF-B1308A350F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92525F55-D863-42A0-84DF-B1308A350F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92525F55-D863-42A0-84DF-B1308A350F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0B2421-13A6-4720-B198-52AC18EB573C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0B2421-13A6-4720-B198-52AC18EB573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0B2421-13A6-4720-B198-52AC18EB573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0B2421-13A6-4720-B198-52AC18EB573C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C550BF07-41AC-4B12-B5C7-054A509E03C6}
+	EndGlobalSection
+EndGlobal
