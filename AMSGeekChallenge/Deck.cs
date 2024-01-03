@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace AMSGeekChallenge
 {
     using System;
@@ -80,13 +80,6 @@ namespace AMSGeekChallenge
         public List<Card> GetCards()
         {
             return new List<Card>(cards);
-        }
-
-        public static void main(String[] args)
-        {
-            Deck deck = new Deck();
-          
-
         }
        
     }

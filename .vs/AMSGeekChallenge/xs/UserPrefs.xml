@@ -1,16 +1,30 @@
-﻿<Properties StartupConfiguration="{4A0B2421-13A6-4720-B198-52AC18EB573C}|Default" GitUserInfo="UsingMD">
+﻿<Properties StartupConfiguration="{92525F55-D863-42A0-84DF-B1308A350F0A}|Default" GitUserInfo="UsingMD">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AMSGeekChallenge/Program.cs">
+    <Files>
+      <File FileName="AMSGeekChallenge/Card.cs" Line="83" Column="10" />
+      <File FileName="AMSGeekChallenge/Program.cs" Line="19" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AMSGeekChallenge">
+            <Node name="AMSGeekChallenge" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="AMSGeekChallenge" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AMSGeekChallenge PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.DeckTests PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

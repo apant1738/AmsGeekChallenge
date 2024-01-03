@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ayushpant/Projects/AMSGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj": {}
+    "/Users/ayushpant/Projects/AmsGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj": {}
   },
   "projects": {
-    "/Users/ayushpant/Projects/AMSGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj": {
+    "/Users/ayushpant/Projects/AmsGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ayushpant/Projects/AMSGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj",
+        "projectUniqueName": "/Users/ayushpant/Projects/AmsGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj",
         "projectName": "AMSGeekChallenge",
-        "projectPath": "/Users/ayushpant/Projects/AMSGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj",
+        "projectPath": "/Users/ayushpant/Projects/AmsGeekChallenge/AMSGeekChallenge/AMSGeekChallenge.csproj",
         "packagesPath": "/Users/ayushpant/.nuget/packages/",
-        "outputPath": "/Users/ayushpant/Projects/AMSGeekChallenge/AMSGeekChallenge/obj/",
+        "outputPath": "/Users/ayushpant/Projects/AmsGeekChallenge/AMSGeekChallenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ayushpant/.nuget/NuGet/NuGet.Config"
